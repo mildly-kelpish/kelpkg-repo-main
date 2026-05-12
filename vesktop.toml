@@ -1,0 +1,8 @@
+[meta]
+version = "1.6.5"
+description = "Vesktop is a custom Discord desktop app"
+name = "vesktop"
+[package]
+source = "https://github.com/Vencord/Vesktop"
+command = "pnpm i && pnpm package --linux appimage"
+finbin = "dist/Vesktop-1.6.5.AppImage"
