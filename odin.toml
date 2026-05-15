@@ -1,0 +1,8 @@
+[meta]
+version = "2026.5"
+description = "Odin is a general-purpose programming language with distinct typing, built for high performance, modern systems, and built-in data-oriented data types"
+name = "odin"
+[package]
+source = "https://github.com/odin-lang/Odin"
+command = "make release-native"
+finbin = "odin"
