@@ -2,6 +2,8 @@
 version = 5.2
 description = "nnn (n³) is a full-featured terminal file manager. It's tiny, nearly 0-config and incredibly fast."
 name = "nnn"
+binary = false
+library = false
 [package]
 source = "https://github.com/jarun/nnn"
 command = "make strip"
