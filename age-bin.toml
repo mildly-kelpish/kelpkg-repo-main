@@ -1,0 +1,9 @@
+[meta]
+version = 1.31
+description = "age encryption binary package"
+name = "age"
+pkgt = 1
+[package]
+source = "https://github.com/FiloSottile/age/releases/download/v1.3.1/age-v1.3.1-linux-amd64.tar.gz"
+command = "age-v1.3.1-linux-amd64.tar.gz"
+finbin = "age/age*"
