@@ -2,3 +2,5 @@
 provides = ["age-bin", "halloy", "nnn", "odin", "vesktop" ]
 # a list of every package the repo provides, i can only imagine how big this would get with some other repos...
 # likely there will be more requirements for a valid meta in the future, but for now this is all that is needed
+rname = "main"
+# a readable name for repo selection
