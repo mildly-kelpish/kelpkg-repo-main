@@ -4,3 +4,5 @@ provides = ["age-bin", "halloy", "nnn", "odin", "vesktop" ]
 # likely there will be more requirements for a valid meta in the future, but for now this is all that is needed
 rname = "main"
 # a readable name for repo selection
+url = "https://raw.githubusercontent.com/mildly-kelpish/kelpkg-repo-main/refs/heads/main/%s.toml"
+# the same url as in packagelist
