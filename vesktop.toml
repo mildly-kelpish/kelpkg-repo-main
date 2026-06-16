@@ -2,6 +2,7 @@
 version = 1.65
 description = "Vesktop is a custom Discord desktop app"
 name = "vesktop"
+pkgt = 0
 [package]
 source = "https://github.com/Vencord/Vesktop"
 command = "pnpm i && pnpm package --linux appimage"
