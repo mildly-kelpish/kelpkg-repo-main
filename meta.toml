@@ -1,5 +1,5 @@
 # every repo needs a meta.toml for it to be considered valid
-provides = ["age-bin", "halloy", "nnn", "odin", "vesktop" ]
+provides = ["age-bin", "halloy", "nnn", "odin", "vesktop", "fjordlauncher-bin" ]
 # a list of every package the repo provides, i can only imagine how big this would get with some other repos...
 # likely there will be more requirements for a valid meta in the future, but for now this is all that is needed
 rname = "main"
